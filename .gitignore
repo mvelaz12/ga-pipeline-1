@@ -1,6 +1,7 @@
 #large raw data files
 *.fastq.gz
-
+slurm.*out
+slurm.*.err
 # History files
 .Rhistory
 .Rapp.history
